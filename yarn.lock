@@ -2770,10 +2770,11 @@
   integrity sha512-ZK//eAPhwft9Ul2/Zj+6O11YR6L4JX0J2sVeBC9Ft7x7HFN7xk7yUV/zDxqV6rjvqgl6r8Dq7oQImxtyf/Mzcw==
 
 "@types/react-form@^2.16.1":
-  version "2.16.1"
-  resolved "https://registry.yarnpkg.com/@types/react-form/-/react-form-2.16.1.tgz#7b9393fab90deb0aa7ec7caec401d4fdbb91359b"
+  version "2.16.15"
+  resolved "https://registry.yarnpkg.com/@types/react-form/-/react-form-2.16.15.tgz#2469ce9e026f0576b2e9b9f58e51cc82fd61169c"
+  integrity sha512-uyonTWluQD07Nzf+lBpzr7kkNyd2bFD/y75WReZ+0/Fe9V6smQjJ1tEUV8v6OpMuO5arojRCTtCc5tsDhbzMaw==
   dependencies:
-    "@types/react" "*"
+    "@types/react" "^16"
 
 "@types/react-helmet@^6.1.6":
   version "6.1.6"
